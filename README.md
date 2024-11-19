@@ -20,7 +20,11 @@ The analysis identifies large vehicles, especially SUVs and Vans, as the most fr
 
 Results
 The Logistic Regression demonstrated the best performance with the following metrics:
-Accuracy  Precision    Recall        F1      
-0.782      0.782783   0.998723     0.877666
+
+Accuracy - 0.782  
+Precision -0.782783  
+Recall - 0.998723 
+F1    - 0.877666
+
 
 
