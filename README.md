@@ -22,8 +22,11 @@ Results
 The Logistic Regression demonstrated the best performance with the following metrics:
 
 Accuracy - 0.782  
+
 Precision -0.782783  
+
 Recall - 0.998723 
+
 F1    - 0.877666
 
 
